@@ -162,5 +162,5 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
-* [@conda-forge/podman](https://github.com/conda-forge/podman/)
+* [@conda-forge/podman](https://github.com/orgs/conda-forge/teams/podman/)
 
