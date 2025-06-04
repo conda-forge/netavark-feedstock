@@ -1,4 +1,4 @@
-{% set version = "1.15.1" %}
+{% set version = "1.15.2" %}
 
 package:
   name: netavark
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://github.com/containers/netavark/archive/refs/tags/v{{ version }}.tar.gz
-  sha256: e81b28d4d5768d4c98a6dc2fff8432b42018e26ff891501f62af8cc577e69b1c
+  sha256: 84325e03aa0a2818aef9fb57b62cda8e9472584744d91ce5e5b191098f9e6d6a
 
 build:
   number: 0
