@@ -17,4 +17,4 @@ libprotobuf:
 rust_compiler:
 - rust
 target_platform:
-- linux-64
+- linux-ppc64le
